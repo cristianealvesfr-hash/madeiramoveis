@@ -157,7 +157,7 @@
       if (interesse) texto += `\n*Interesse:* ${interesse}`;
       if (mensagem)  texto += `\n*Mensagem:* ${mensagem}`;
 
-      const whatsappLink = 'https://wa.me/5513996192291?text=' + encodeURIComponent(texto);
+      const whatsappLink = 'https://wa.me/5513997754929?text=' + encodeURIComponent(texto);
 
       setTimeout(() => {
         window.open(whatsappLink, '_blank');
